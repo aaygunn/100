@@ -39,6 +39,7 @@ body {
 .baslik {
   font-size: 4rem;
   display: flex;
+  text-align: center;
 }
 
 .buyu {
