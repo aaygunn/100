@@ -23,7 +23,7 @@ body {
 }
 
 @media (max-width=800px){
-.baslik{
+.ana-nokta{
   display: flex;
   flex-direction: column;
 }
