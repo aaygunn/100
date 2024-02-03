@@ -25,6 +25,7 @@ body {
 @media (max-width=800px){
 .baslik{
   display: flex;
+  flex-direction: column;
 }
 }
 .container {
