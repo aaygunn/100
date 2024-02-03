@@ -110,6 +110,6 @@ body {
     display: inline;
   }
   .baslik{
-    height: 50%
+    font-size: 3rem;
   }
 }
