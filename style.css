@@ -103,7 +103,7 @@ body {
     transform: translateY(-8px);
   }
 }
-@media(max-width=800){
+@media(max-width=800px){
   .ilk-nokta,
   .ikinci-nokta,
   .ucuncu-nokta{
