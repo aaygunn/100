@@ -103,3 +103,10 @@ body {
     transform: translateY(-8px);
   }
 }
+@media(max-width=800){
+  .ilk-nokta,
+  .ikinci-nokta,
+  .ucuncu-nokta{
+    display: inline;
+  }
+}
