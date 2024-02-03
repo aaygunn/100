@@ -30,6 +30,10 @@ body {
     font-size: 2rem;
     flex-wrap: nowrap;
   }
+  .baslik-container{
+    display:flex;
+    flex-direction: column;
+  }
 }
 
 .container {
