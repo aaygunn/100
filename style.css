@@ -23,9 +23,7 @@ body {
 }
 
 @media(max-width: 800px){
-  .ilk-nokta,
-  .ikinci-nokta,
-  .ucuncu-nokta{
+  .baslik span{
     display: inline;
   }
   .baslik{
