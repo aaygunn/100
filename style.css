@@ -24,7 +24,7 @@ body {
 
 @media(max-width: 800px){
   .baslik span{
-    display: inline;
+    display: none;
   }
   .baslik{
     font-size: 2rem;
