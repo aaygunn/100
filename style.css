@@ -22,7 +22,16 @@ body {
   background-size: cover; */
 }
 
-
+@media(max-width: 800px){
+  .ilk-nokta,
+  .ikinci-nokta,
+  .ucuncu-nokta{
+    display: inline;
+  }
+  .baslik{
+    font-size: 3rem;
+  }
+}
 
 .container {
   width: 100%;
@@ -103,13 +112,4 @@ body {
     transform: translateY(-8px);
   }
 }
-@media(max-width: 800px){
-  .ilk-nokta,
-  .ikinci-nokta,
-  .ucuncu-nokta{
-    display: inline;
-  }
-  .baslik{
-    font-size: 3rem;
-  }
-}
+
