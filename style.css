@@ -28,6 +28,7 @@ body {
   }
   .baslik{
     font-size: 2rem;
+    flex-wrap: nowrap;
   }
 }
 
