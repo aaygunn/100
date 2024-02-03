@@ -22,12 +22,8 @@ body {
   background-size: cover; */
 }
 
-@media (max-width=800px){
-.ana-nokta{
-  display: flex;
-  flex-direction: column;
-}
-}
+
+
 .container {
   width: 100%;
   height: 100vh;
